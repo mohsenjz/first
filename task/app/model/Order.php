@@ -1,6 +1,9 @@
 <?php
-namespace app\model ;
+
+namespace app\model;
+
 use app\model\User;
+
 require_once 'User.php';
 
 // class Order extends Model{
